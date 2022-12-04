@@ -4,3 +4,4 @@ WPU RESOLUSI
 - Bejalar flooter
 - Belajar Goolean
 - Belaja node js
+- Belajar Backend
